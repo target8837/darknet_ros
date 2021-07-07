@@ -1,4 +1,4 @@
-# YOLO ROS: Real-Time Object Detection for ROS
+# YOLO ROS: Real-Time Object Detection for ROS_target
 
 ## Overview
 
